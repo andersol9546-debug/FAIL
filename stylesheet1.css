@@ -226,3 +226,12 @@ footer {
     }
 }
 
+.Error{
+    color:red;
+    font-weight:normal;
+}
+
+label {
+    font-weight: bold;
+}
+
